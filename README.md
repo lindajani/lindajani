@@ -1,7 +1,7 @@
-- 👋 Hi, I’m lindajani
-- 👀 I’m interested in reading books
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on mobile application projects
+- 👋 Hi, I’m linda Jani
+- 👀 I’m interested in reading books.
+- 🌱 I’m currently learning Software Engineering at ALX Africa.
+- 💞️ I’m looking forward to collaborate on web and mobile application projects.
 - 📫 How to reach me : lindajani02@gmail.com
 
 <!---
